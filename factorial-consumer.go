@@ -7,8 +7,8 @@ import (
 )
 
 func main() {
-	var input int
-	var result int
+	var input int32
+	var result int32
 
 	fmt.Println("------------Calculate factorial------------")
 	fmt.Print("Enter integer:")
